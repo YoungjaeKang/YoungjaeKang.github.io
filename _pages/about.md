@@ -1,18 +1,13 @@
 ---
 layout: about
 title: About Me
-author: Johnathan Smith
-image: assets/images/about/author.jpg
+author: Youngjae Kang
+image: assets/images/about/jay.jpeg
 signature: assets/images/about/signature.png
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea
-commodo consequat.
+I took the lead in various tasks such as strategy, sales, marketing, and PM until the number of startups with 8 members became 130 and listed on the KOSDAQ market. In particular, I contributed to the process of innovating the traditional business of art brokerage online.
 
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident.
+Currently, I work in the business planning department of a KOSPI-listed manufacturing company. I learned how to look at business from a bigger perspective than before. We have been able to adjust our product portfolio or analyze our performance on a per-affiliate basis.
 
-Deserunt mollit anim id est laborum. Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia.
+As the problem that needs to be solved becomes more complex and larger, I want to solve it from various perspectives.
