@@ -2,7 +2,7 @@
 #-------------------------------
 # General Site Settings
 
-title: Allgoodsoft
+title: Studio K
 logo:
 author: themefisher
 description: this is meta description
@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Youngjae <br> Entrepreneur
+  hero-title: Hi! I’m <br> Youngjae <br> Creator
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/youngjaekang/" }
@@ -99,7 +99,7 @@ skills:
 experience-title: Experience
 experience:
   - {
-      name: Business Strategy,
+      name: Strategic Planning,
       icon: "icon-1.png",
       date: "Dec 2015 - Nov 2020",
       organization: "K-Auction",
