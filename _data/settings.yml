@@ -36,7 +36,7 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 # Hero Section
 
 hero:
-  hero-title: Hi! I’m <br> Youngjae <br> Creator
+  hero-title: Hi! I’m <br> Youngjae <br> Entrepreneur
 
 social:
   - { icon: "ti-linkedin", link: "https://www.linkedin.com/in/youngjaekang/" }
@@ -48,7 +48,7 @@ social:
 # About (Section and Page)
 
 # About Section
-blurb: We solve problems in the world with technology and create content that has a positive impact. And collaborate with experts in various fields across industry boundaries.
+blurb: 기술로 인간의 삶을 이롭게 하는 비즈니스를 운영합니다. 다양한 분야의 전문가들과 협업하여 세상에 긍정적인 영향을 만들어갑니다.
 
 blurb-btn-link: "/about"
 blurb-btn-name: know more
@@ -88,10 +88,10 @@ team:
 
 skills-title: Skills
 skills:
-  - { name: Business, color: "#fdb157", value: "90%" }
-  - { name: Design, color: "#9473e6", value: "80%" }
-  - { name: IT Product, color: "#bdecf6", value: "90%" }
-  - { name: Media Content, color: "#ffbcaa", value: "70%" }
+  - { name: 경영/전략, color: "#fdb157", value: "100%" }
+  - { name: 재무관리, color: "#9473e6", value: "80%" }
+  - { name: IT/기술, color: "#bdecf6", value: "90%" }
+  - { name: 기획/PM, color: "#ffbcaa", value: "90%" }
 
 #-------------------------------
 # Exprerience Section
